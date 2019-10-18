@@ -1,5 +1,7 @@
 # rn-practice
 
+This app uses functional components with React Hooks to do stateful things!
+
 1. Clone repo
 
 2. Run npm start
